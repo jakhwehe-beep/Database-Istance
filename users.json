@@ -3,8 +3,10 @@
     "id": "8127540523",
     "role": "PT",
     "quota": 5,
-    "usedQuota": 0,
-    "tokens": [],
+    "usedQuota": 1,
+    "tokens": [
+      "8364716632:AAFKCiBSPQBpMEyBr4YTXkEkoJe65__OtMw"
+    ],
     "reports": 0,
     "joinDate": "13/12/2025"
   },
