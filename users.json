@@ -1,1 +1,22 @@
-{}
+{
+  "8127540523": {
+    "id": "8127540523",
+    "role": "User",
+    "quota": 0,
+    "usedQuota": 0,
+    "tokens": [],
+    "reports": 0,
+    "joinDate": "13/12/2025"
+  },
+  "6898435833": {
+    "id": "6898435833",
+    "role": "PT",
+    "quota": 5,
+    "usedQuota": 1,
+    "tokens": [
+      "7775418677:AAFB0s7h8EYOphlngstXD3KH58LQOzie6l4"
+    ],
+    "reports": 0,
+    "joinDate": "13/12/2025"
+  }
+}
